@@ -6,9 +6,9 @@ setup(
     description = "Store use python scripts from within django.",
     url = "https://github.com/thanos/django-scripts",
     author = "thanos vassilakis",
-    author_email = "matt@schinckel.net",
+    author_email = "thanos@synatzo.com",
     packages = [
-        "scripts",
+        "test_projects/scripts",
         
     ],
     classifiers = [
