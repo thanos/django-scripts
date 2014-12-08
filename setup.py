@@ -17,4 +17,7 @@ setup(
         'Operating System :: OS Independent',
         'Framework :: Django',
     ],
+    install_requires=[
+        "django-reversion",
+    ],
 )
